@@ -1,1 +1,2 @@
-print("Привет", "Python!", sep="\n")
+print("Привет,", end=" ")
+print("Python!")
